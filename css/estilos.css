@@ -36,7 +36,10 @@ body
 }
 #post
 {
-    padding: 1em;
-    border: 1px solid #DDD;
-    margin: 10 auto;
+  padding: 1em;
+  width: 70%;
+  padding: 10;
+  text-align: left;
+  border: 1px solid #DDD;
+  margin: 10 auto;  
 }
