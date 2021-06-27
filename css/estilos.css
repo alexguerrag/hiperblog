@@ -27,7 +27,7 @@ body
     width: 70%;
     padding: 10;
     text-align: left;
-    border: 1px solid rgb(231, 96, 96);
+    border: 1px solid #DDD;
     margin: 10 auto;
 }
 #container h1
@@ -36,5 +36,6 @@ body
 }
 #post
 {
-    padding: 10em;
+    padding: 1em;
+    border: 1px solid #DDD;
 }
